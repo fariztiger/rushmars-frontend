@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\static",
+    "\\static\\js"
   ],
+  "SelectedNode": "\\static\\js\\main.379b6596.chunk.js",
   "PreviewInSolutionExplorer": false
 }
